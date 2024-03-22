@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Integrantes do Grupo:
 ~ Eduardo De Bastiani
 ~ Carlos de Moraes
@@ -101,3 +102,6 @@ Fazer previsões para o conjunto de dados de teste.
 Calcular a matriz de confusão, acurácia, recall, precisão e f1-score para cada algoritmo.
 Descrever os pontos fortes, potenciais problemas e diferenças entre as implementações dos algoritmos.
 Gerar o código em um Jupyter Notebook com documentação clara e organizada.
+=======
+# SupervisedLeaningAlgorithims
+>>>>>>> 611d389f0ac02fb1dbe2b4fecc025d79deaddaf9
